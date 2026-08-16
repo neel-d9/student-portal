@@ -27,3 +27,5 @@ Handles credential validation, lockouts, and session tokens.
 Manages user profile data and avatars.
 ## Dashboard Module
 Shows enrolled courses, grades, and notifications.
+## Settings Module
+Handles user preferences and password management.
