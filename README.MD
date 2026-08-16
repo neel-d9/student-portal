@@ -21,3 +21,5 @@ The aoo runs on http://localhost:3000 by default.
 - /docs - additional documentation
 ## Contributing
 Please open a feature branch and submit a pull request for review.
+## Settings Module
+Handles user preferences and password management.
