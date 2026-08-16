@@ -25,3 +25,5 @@ Please open a feature branch and submit a pull request for review.
 Handles credential validation, lockouts, and session tokens.
 ## Profile Module
 Manages user profile data and avatars.
+## Dashboard Module
+Shows enrolled courses, grades, and notifications.
