@@ -12,4 +12,4 @@ int main() {
   int status = authenticateUser("demo", "demo123");
   std::cout << "Auth status: " << status << std::endl;
   return 0;
-}
+}// important change
