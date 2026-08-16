@@ -29,3 +29,5 @@ Manages user profile data and avatars.
 Shows enrolled courses, grades, and notifications.
 ## Settings Module
 Handles user preferences and password management.
+## Roadmap
+- CSV export for grades (in progress)
