@@ -1,4 +1,6 @@
-node_modules/
-.env
-built/
-dist/
+*.o
+*.exe
+*.out
+cmake/
+build/
+*.log
