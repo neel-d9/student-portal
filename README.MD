@@ -21,3 +21,5 @@ The aoo runs on http://localhost:3000 by default.
 - /docs - additional documentation
 ## Contributing
 Please open a feature branch and submit a pull request for review.
+## Dashboard Module
+Shows enrolled courses, grades, and notifications.
