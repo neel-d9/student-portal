@@ -23,3 +23,5 @@ The aoo runs on http://localhost:3000 by default.
 Please open a feature branch and submit a pull request for review.
 ## Login Module
 Handles credential validation, lockouts, and session tokens.
+## Profile Module
+Manages user profile data and avatars.
