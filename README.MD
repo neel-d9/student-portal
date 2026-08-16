@@ -19,3 +19,5 @@ The aoo runs on http://localhost:3000 by default.
 - /src - application source code
 - /tests - unit and integration tests
 - /docs - additional documentation
+## Contributing
+Please open a feature branch and submit a pull request for review.
