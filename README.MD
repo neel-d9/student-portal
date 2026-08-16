@@ -4,3 +4,9 @@ A Student Portal Web App for managing courses, grades, attendance and mess booki
 ## Requirements
 - Node.js >= 18
 - npm >= 9
+## Installation
+```bash
+git clone https://github.com/neel-d9/student-portal.git
+cd student-portal
+npm install
+```
