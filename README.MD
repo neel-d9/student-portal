@@ -15,3 +15,7 @@ npm install
 npm start
 ```
 The aoo runs on http://localhost:3000 by default.
+## Project Structure
+- /src - application source code
+- /tests - unit and integration tests
+- /docs - additional documentation
