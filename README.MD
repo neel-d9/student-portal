@@ -10,3 +10,8 @@ git clone https://github.com/neel-d9/student-portal.git
 cd student-portal
 npm install
 ```
+## Running the App
+```bash
+npm start
+```
+The aoo runs on http://localhost:3000 by default.
